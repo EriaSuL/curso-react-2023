@@ -1,0 +1,9 @@
+p.TDloading{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray;
+    opacity: 50%;
+    max-height: 400%;
+    height: 400%;
+}

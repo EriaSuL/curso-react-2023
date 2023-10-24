@@ -1,0 +1,24 @@
+/*clase para nuevos iconos SVG*/
+.ContenedorSvg{
+    height: 18px;
+    vertical-align: middle;
+    margin: 0;
+}
+
+
+.Icon-svg{
+    width: 20px;
+    height: 20px;
+}
+
+.ContenedorSvg-delete:hover .Icon-svg{
+    fill: fuchsia;
+}
+
+.ContenedorSvg-circle:hover .Icon-svg{
+    fill: cyan;
+}
+
+.ContenedorSvg:hover{
+    transform:scale(1.3)
+   }
